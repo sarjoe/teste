@@ -1,5 +1,7 @@
 <?php
 
-		echo "Teste bobo editado";
+	echo "Teste bobo editado";
+
+	echo "só mais uma linha";
 		
 ?>
