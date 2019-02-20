@@ -1,5 +1,5 @@
 <?php
 
-		echo "Teste bobo";
+		echo "Teste bobo editado";
 		
 ?>
